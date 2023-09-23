@@ -1,1 +1,2 @@
 Selected instances from the TSP library: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/index.html
+The Euclidean distance among all nodes was recalculated and used for all analyses derived from the data in this repository.
